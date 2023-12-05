@@ -1,6 +1,6 @@
 ## Hi! 👋 I am a software engineer interested in solving non-trivial problems.
 
-- 💻 Working on infrastructure development at [A.Team](https://www.a.team)
+- 💻 Senior Platform Engineer [A.Team](https://www.a.team)
 - 📚 Implemented a concurrent [art engine](https://github.com/erodactyl/art-engine) in Go, 8x faster than the most used solution in the NFT space
 - 📝 Check out my [blog](https://blog.erikdavtyan.com)
 - 📫 Reach me at:
