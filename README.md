@@ -1,4 +1,4 @@
-## Hi! 👋 I am a software engineer interested in solving non-trivial problems.
+Software engineer interested in solving non-trivial problems.
 
 - 💻 Senior AI Engineer [Not Diamond](https://notdiamond.ai)
 - 📚 Implemented a concurrent [art engine](https://github.com/erodactyl/art-engine) in Go, 8x faster than the most used solution in the NFT space
